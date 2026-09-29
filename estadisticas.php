@@ -6,6 +6,6 @@
     <title>Estadisticas</title>
 </head>
 <body>
-    <h1>Pagina</h1>
+    <h1>Pagina Mater anos </h1>
 </body>
 </html>
