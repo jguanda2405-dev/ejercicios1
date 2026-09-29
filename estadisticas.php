@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>pepe</title>
+    <title>Estadisticas</title>
 </head>
 <body>
-    <h1>Holagit</h1>
+    
 </body>
 </html>
