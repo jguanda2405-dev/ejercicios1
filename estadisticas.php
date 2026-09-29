@@ -6,6 +6,6 @@
     <title>Estadisticas</title>
 </head>
 <body>
-    
+    <h1>Pagina estadistica</h1>
 </body>
 </html>
